@@ -1,19 +1,18 @@
-# Hi 👋, I'm VA80
+# Vihaan 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VihaanReddyM&label=Profile views&color=0e75b6&style=flat" alt="VihaanReddyM" /> </p>
+Welcome to my corner of GitHub. I'm a math enthusiast and hobbyist coder. 
 
-<h3 align="left">Connect with me:</h3>
+I don't have a massive portfolio of production apps, but I love the logic of programming. I use code mostly as a tool to solve complex puzzles from Project Euler, automate things for my friends on Discord, and explore data from my favorite games and motorsports.
+
 <p align="left">
-<a href="https://github.com/VihaanReddyM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VihaanReddyM" height="30" width="40" /></a>
-<a href="https://discord.gg/VA80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VA80_" height="30" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihaanReddyM&" alt="VihaanReddyM" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### Projects & Organizations
+Here are a few things I've contributed to or built:
+*   **[Armeniumnetwork](https://github.com/Armeniumnetwork)** — *I help with my dear friend, [Armenium](https://github.com/armenium). We work on anything we find interesting!!*
+*   **[Hypixel Bedwars](https://github.com/hypixel-bedwars)** — *This is where you can find my discords bots that were made for [Hypixel Bedwars Discord](https://discord.gg/bedwars)*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VihaanReddyM&show_icons=true&locale=en&layout=compact" alt="VihaanReddyM" /></p>
+Feel free to reach out if you want to chat about math, GT3 cars, or if you just wanna chat! 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VihaanReddyM&show_icons=true&locale=en" alt="VihaanReddyM" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VihaanReddyM&" alt="VihaanReddyM" /></p>
-
+<a href="https://discord.gg/VA80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VA80_" height="30" width="40" /></a>
