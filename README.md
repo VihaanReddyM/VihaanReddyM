@@ -1,4 +1,4 @@
-# Vihaan 
+# VA80 (Vihaan)
 
 Welcome to my corner of GitHub. I'm a math enthusiast and hobbyist coder. 
 
