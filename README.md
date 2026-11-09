@@ -1,18 +1,24 @@
 # VA80 (Vihaan)
 
-Welcome to my corner of GitHub. I'm a math enthusiast and hobbyist coder. 
+Computation & Mathematics student at Mahindra University. I'm a math enthusiast who loves the logic of programming. I use code to solve puzzles from Project Euler, build bots and tools for Minecraft and Discord communities, and explore data from my favorite games and motorsports.
 
-I don't have a massive portfolio of production apps, but I love the logic of programming. I use code mostly as a tool to solve complex puzzles from Project Euler, automate things for my friends on Discord, and explore data from my favorite games and motorsports.
+## Featured projects
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihaanReddyM&" alt="VihaanReddyM" />
-</p>
+- [hypixel-guild-bot](https://github.com/VihaanReddyM/hypixel-guild-bot) - Mineflayer bot that joins Hypixel guild chat and answers BedWars stat commands, using a Cloudflare Worker proxy.
+- [Hypixel-API-worker](https://github.com/VihaanReddyM/Hypixel-API-worker) - Cloudflare Worker proxy for the Hypixel API with bearer-token auth, so the API key stays private.
+- [Photo-Extraction-Tool](https://github.com/VihaanReddyM/Photo-Extraction-Tool) - Rust CLI that extracts photos and videos from iPhone and Android devices on Windows, no iTunes needed.
 
-### Projects & Organizations
-Here are a few things I've contributed to or built:
-*   **[Armeniumnetwork](https://github.com/Armeniumnetwork)** — *I help with my dear friend, [Armenium](https://github.com/armenium). We work on anything we find interesting!!*
-*   **[Hypixel Bedwars](https://github.com/hypixel-bedwars)** — *This is where you can find my discords bots that were made for [Hypixel Bedwars Discord](https://discord.gg/bedwars)*
+## Open source
 
-Feel free to reach out if you want to chat about math, GT3 cars, or if you just wanna chat! 
+- [SeriousDB](https://github.com/danieldeer/seriousdb) - a Python persistent key-value database. 3 merged pull requests, plus an [RFC for a custom storage engine](https://github.com/danieldeer/seriousdb/issues/290) and a [B+ tree implementation issue](https://github.com/danieldeer/seriousdb/issues/333).
 
-<a href="https://discord.gg/VA80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VA80_" height="30" width="40" /></a>
+## Other projects and organizations
+
+- Armeniumnetwork - I help with my dear friend, Armenium. We work on anything we find interesting!!
+- Hypixel Bedwars - This is where you can find my discord bots that were made for the Hypixel Bedwars Discord.
+
+## Tech
+
+TypeScript, JavaScript, Python, Rust, Cloudflare Workers
+
+Feel free to reach out if you want to chat about math, GT3 cars, or if you just wanna chat!
